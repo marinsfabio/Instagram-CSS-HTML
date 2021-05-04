@@ -1,2 +1,2 @@
 # Instagram-CSS-HTML
-Projeto clono interface instagram Digital Innovation One
+Projeto clone interface instagram Digital Innovation One
